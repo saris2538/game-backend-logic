@@ -26,5 +26,3 @@ A short walkthrough explaining the Excel-based backend system,
 including bidding, profit sharing, and real-time scoring.
 
 [Watch the walkthrough video](https://youtu.be/-eTSOkWSaew)
-
-This video focuses on system logic and operator workflow rather than UI details.
